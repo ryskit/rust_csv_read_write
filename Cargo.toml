@@ -1,0 +1,8 @@
+[package]
+name = "rust_csv_read_write"
+version = "0.1.0"
+authors = ["Ryosuke Kida <ryosukekida.71@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+csv = "1.0.0"
